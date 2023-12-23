@@ -1,8 +1,8 @@
 .bg-discord{
-    background-color: #7289da;
+    background-color: rgba(114, 137, 218, 0.8);
 }
 .bg-youtube{
-    background-color: #ff0000;
+    background-color: rgba(255, 0, 0, 0.8);
 }
 
 .bg-black{
@@ -89,7 +89,7 @@ body{
     justify-content: space-around;
     margin: 20px auto;
     width: 1400px;
-    background-color: rgba(255, 211, 146, 0.8);
+    background-color: rgba(255, 197, 166, 0.8);
     border-radius: 20px;
 }
 
@@ -126,9 +126,12 @@ h1{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    border-radius: 10px;
-    box-shadow: #FFFFFF 0 0 20px;
+    border-radius: 40px;
+    border: 5px solid #FFF;
     transition: all 0.3s ease;
+     width:300px;
+    font-weight: bold;
+    font-size: 1.2rem;
 }.link>img{
     width: 30px;
     height: 30px;
