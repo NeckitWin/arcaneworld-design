@@ -92,6 +92,7 @@
 .news-post>img{
     width: 800px;
     object-fit: cover;
+    border-radius: 20px;
 }
 
 /* меню игрока */
