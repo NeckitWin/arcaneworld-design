@@ -173,7 +173,7 @@ h1{
     justify-content: center;
     align-items: center;
     border-radius: 20px;
-    background: linear-gradient(#ff54fd, #ff7f95);
+    background: linear-gradient(rgba(255, 84, 253, 0.75), rgba(255, 127, 149, 0.75));
     padding: 10px;
 }
 
@@ -209,7 +209,7 @@ h1{
     justify-content: center;
     align-items: center;
     border-radius: 20px;
-    background: linear-gradient(#ff54fd, #ff7f95);
+    background: linear-gradient(rgba(255, 84, 253, 0.75), rgba(255, 127, 149, 0.75));
     padding: 10px;
 }
 
